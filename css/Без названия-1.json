@@ -1,0 +1,15 @@
+{
+    "translationService": "google", 
+    "_debug_mode": false, 
+    "extraTextOptions": {
+        "font": null, 
+        "bold": false, 
+        "italic": false, 
+        "size": "+10"
+    }, 
+    "requestsFrequency": 90, 
+    "originalInHistory": true, 
+    "directionOfTranslation": "zh-CN", 
+    "prescan": false, 
+    "gameLanguage": "en"
+}
